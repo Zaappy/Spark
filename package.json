@@ -1,0 +1,26 @@
+{
+  "name": "spark",
+  "version": "1.0.0",
+  "description": "This is a discord.js bot I am working on, that is in very early development. I will have a list of features here eventually(tm).\r ![](./images/icon.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaappy/Spark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zaappy/Spark/issues"
+  },
+  "homepage": "https://github.com/Zaappy/Spark#readme",
+  "dependencies": {
+    "discord.js": "^14.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
